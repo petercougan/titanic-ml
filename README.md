@@ -1,0 +1,1 @@
+This repository contains the data, notebooks, and any source code created for the Kaggle Titanic competition https://www.kaggle.com/c/titanic.
